@@ -5,12 +5,13 @@
 I'm Alan, a software/data engineer and lifelong learner. I enjoy gathering/analyzing data and optimizing systems.
 
 Some of my notable accomplishments are:
+
 * Built a mobile SDK that integrated into 100+ apps
 * Created an API with an install base that grew to over 50+ million iOS/Android devices
 * Programmed the computer imaging and robotic subsystems for a microscope platform
 * Developed data products that generated an average monthly recurring revenue of $53,000
 * Designed and deployed a nationwide over-the-air ad verification system for the top 100 US markets
- 
+
 My other interests include surfing, photography and 3D printing.  Recently, I've been playing around with `OpenSCAD` and `Stable Diffusion`.
 
 <br>
