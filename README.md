@@ -1,25 +1,3 @@
-<style>
-.social {
-    height: 25px;
-    width: 25px;
-    margin-right: 5px;
-    filter: invert(32%) sepia(63%) saturate(6234%) hue-rotate(146deg) brightness(67%) contrast(156%); 
-}
-.social:hover {
-    filter: invert(32%) sepia(63%) saturate(6234%) hue-rotate(146deg) brightness(87%) contrast(156%);
-}
-
-.tools {
-    height: 30px;
-    width: 30px;
-    margin-right: 2px;
-    filter: invert(32%) sepia(63%) saturate(6234%) hue-rotate(196deg) brightness(67%) contrast(156%); 
-}
-.tools:hover {
-    filter: invert(32%) sepia(63%) saturate(6234%) hue-rotate(196deg) brightness(87%) contrast(156%);
-}
-</style>
-
 # 🏄 Hello World
 I'm Alan, a software/data engineer and lifelong learner. I enjoy gathering/analyzing data and optimizing systems.
 
