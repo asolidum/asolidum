@@ -14,38 +14,37 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 #### ✉️ ___Connect with me___
 #
-<a href="https://linkedin.com/in/alansolidum" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /></a>
-<a href="https://fb.com/alan.solidum" target="blank">
-<img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" /></a>
-<a href="https://instagram.com/surfingsoul" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" /></a>
-<a href="https://www.youtube.com/c/alansolidum" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" /></a>
-<a href="https://www.thingiverse.com/a1s0/designs" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/thingiverse.svg" /></a>
-<a href="https://ko-fi.com/also_" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kofi.svg" /></a>
 <p align="left">
+<a href="https://linkedin.com/in/alansolidum" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /></a>
+<a href="https://fb.com/alan.solidum" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" /></a>
+<a href="https://instagram.com/surfingsoul" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" /></a>
+<a href="https://www.youtube.com/c/alansolidum" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" /></a>
+<a href="https://www.thingiverse.com/a1s0/designs" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/thingiverse.svg" /></a>
+<a href="https://ko-fi.com/also_" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kofi.svg" /></a>
 <p>
 
 <br>
 
 #### ⚙️ ___Languages and Tools___
 #
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" alt="c" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="c++" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" alt="c#" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" alt="go" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="html5" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="python" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rubyonrails.svg" alt="rubyonrails" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" alt="bash" class="tools" />
 <p align="left">
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" alt="c" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="c++" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" alt="c#" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" alt="go" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="html5" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="python" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rubyonrails.svg" alt="rubyonrails" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" alt="bash" />
 <br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazon.svg" alt="aws" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hugo.svg" alt="hugo" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jenkins.svg" alt="jenkins" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="linux" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="git" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/blender.svg" alt="blender" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" alt="redis" class="tools" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" alt="postgres" class="tools" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazon.svg" alt="aws" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hugo.svg" alt="hugo" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jenkins.svg" alt="jenkins" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="linux" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="git" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/blender.svg" alt="blender" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" alt="redis" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" alt="postgres" />
 </p>
 
 <br>
