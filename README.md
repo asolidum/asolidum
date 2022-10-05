@@ -1,4 +1,6 @@
 # 🏄 Hello World
+<img src="https://lh3.googleusercontent.com/5QwZiNi2Gk3Nig_wDR4tAFmNwDvdck9L5yL2ilE5ysz5987POzKhlf5aQWHzWEAZB9og6VMm6MSODfObDplF2WYQ2JcLKnZV708Az-7RqivXbvTEukxwroG4yC-YJZH63RkCoqnlzQ=w2400" />
+
 I'm Alan, a software/data engineer and lifelong learner. I enjoy gathering/analyzing data and optimizing systems.
 
 Some of my notable accomplishments are:
