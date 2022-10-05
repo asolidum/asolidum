@@ -1,5 +1,5 @@
 # 🏄 Hello World
-<img src="https://lh3.googleusercontent.com/5QwZiNi2Gk3Nig_wDR4tAFmNwDvdck9L5yL2ilE5ysz5987POzKhlf5aQWHzWEAZB9og6VMm6MSODfObDplF2WYQ2JcLKnZV708Az-7RqivXbvTEukxwroG4yC-YJZH63RkCoqnlzQ=w2400" />
+<img src="https://lh3.googleusercontent.com/OL2Lp9O2a5pjOdMjdq3kv3_l3W7xLVZfTBYJ1JGKXKSRlZEDJxKJxZOUmzoc95ilRh4YvtzZ604o03jLkVGa_c4eVHNfzL9jMxmZBHCL0uKaN4CbzTXlLMbP1kRFPlAHd6Mm2htW0A=w2400" />
 
 I'm Alan, a software/data engineer and lifelong learner. I enjoy gathering/analyzing data and optimizing systems.
 
