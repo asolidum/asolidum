@@ -14,7 +14,6 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 #### ✉️ ___Connect with me___
 #
-<p alignn="left">
 <a href="https://linkedin.com/in/alansolidum" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /></a>
 <a href="https://fb.com/alan.solidum" target="blank">
 <img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" /></a>
@@ -22,13 +21,13 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 <a href="https://www.youtube.com/c/alansolidum" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" /></a>
 <a href="https://www.thingiverse.com/a1s0/designs" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/thingiverse.svg" /></a>
 <a href="https://ko-fi.com/also_" target="blank"><img class="social" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kofi.svg" /></a>
+<p align="left">
 <p>
 
 <br>
 
 #### ⚙️ ___Languages and Tools___
 #
-<p alignn="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" alt="c" class="tools" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="c++" class="tools" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" alt="c#" class="tools" />
@@ -37,6 +36,7 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="python" class="tools" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rubyonrails.svg" alt="rubyonrails" class="tools" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" alt="bash" class="tools" />
+<p align="left">
 <br>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazon.svg" alt="aws" class="tools" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hugo.svg" alt="hugo" class="tools" />
