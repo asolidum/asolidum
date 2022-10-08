@@ -29,7 +29,7 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 <br>
 
-#### ✉️ ___Connect with me___
+#### 📫 ___Connect with me___
 #
 <p align="left">
 <a href="https://linkedin.com/in/alansolidum" target="blank"><img width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /></a>
@@ -42,7 +42,7 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 <br>
 
-#### ⚙️ ___Languages and Tools___
+#### 🛠️ ___Languages and Tools___
 #
 <p align="left">
 <img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" alt="c" />
