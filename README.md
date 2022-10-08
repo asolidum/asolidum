@@ -19,7 +19,8 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 #### 📚 ___My latest blog posts___
 #
-<!-- BLOG-POST-LIST:START -->* [Storage Case Base Template](https://alansolidum.com/posts/storage-case-base-template/)
+<!-- BLOG-POST-LIST:START -->
+* [Storage Case Base Template](https://alansolidum.com/posts/storage-case-base-template/)
 I wanted to organize my drawer space and reuse my excess Harbor Freight/Stanley storage bins, so I created this SCAD model
 
 * [Daily Fla.sh &lpar;inspired by 1 Second Everyday&rpar;](https://alansolidum.com/posts/daily-flash/)
@@ -33,7 +34,6 @@ As I add more content to this site, I want to ensure the images are free of EXIF
 
 * [DIY Solder Fume Extractor](https://alansolidum.com/posts/solder-fume-extractor/)
 I&amp;rsquo;m increasingly working with electronic circuits. Here&amp;rsquo;s how I built a DIY solder fume extractor with just a fan, filter and filament
-
 <!-- BLOG-POST-LIST:END -->
 
 <br>
