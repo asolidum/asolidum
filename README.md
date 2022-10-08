@@ -33,23 +33,24 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 #### ⚙️ ___Languages and Tools___
 #
 <p align="left">
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" alt="c" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="c++" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg" alt="c#" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg" alt="go" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="html5" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="python" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rubyonrails.svg" alt="rubyonrails" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg" alt="bash" />
+<<a>![c](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg =30x30)</a>
+<a>![c++](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg =30x30)</a>
+<a>![c#](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg =30x30)</a>
+<a>![go](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/go.svg =30x30)</a>
+<a>![html5](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg =30x30)</a>
+<a>![python](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg =30x30)</a>
+<a>![rubyonrails](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rubyonrails.svg =30x30)</a>
+<a>![c](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg =30x30)</a>
+<a>![bash](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gnubash.svg =30x30)</a>
 <br>
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazon.svg" alt="aws" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hugo.svg" alt="hugo" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jenkins.svg" alt="jenkins" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="linux" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="git" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/blender.svg" alt="blender" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg" alt="redis" />
-<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" alt="postgres" />
+<a>![aws](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazon.svg =30x30)</a>
+<a>![hugo](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hugo.svg =30x30)</a>
+<a>![jenkins](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jenkins.svg =30x30)</a>
+<a>![linux](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg =30x30)</a>
+<a>![git](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg =30x30)</a>
+<a>![blender](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/blender.svg =30x30)</a>
+<a>![redis](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redis.svg =30x30)</a>
+<a>![postgres](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg =30x30)</a>
 </p>
 
 <br>
