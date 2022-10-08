@@ -17,6 +17,13 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 <br>
 
+#### 📚 ___My latest blog posts___
+#
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 #### ✉️ ___Connect with me___
 #
 <p align="left">
