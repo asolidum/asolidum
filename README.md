@@ -20,6 +20,11 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 #### 📚 ___My latest blog posts___
 #
 <!-- BLOG-POST-LIST:START -->
+- [Storage Case Base Template](https://alansolidum.com/posts/storage-case-base-template/)
+- [Daily Fla.sh &lpar;inspired by 1 Second Everyday&rpar;](https://alansolidum.com/posts/daily-flash/)
+- [Validating Media Uploads](https://alansolidum.com/posts/validating-media-uploads/)
+- [Securing Changeblog Images](https://alansolidum.com/posts/securing-changeblog-images/)
+- [DIY Solder Fume Extractor](https://alansolidum.com/posts/solder-fume-extractor/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
