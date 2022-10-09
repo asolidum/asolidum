@@ -20,25 +20,15 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 #### 📚 ___My latest blog posts___
 #
 <!-- BLOG-POST-LIST:START -->
-* [Storage Case Base Template](https://alansolidum.com/posts/storage-case-base-template/)
+* [Storage Case Base Template A storage solution using SCAD](https://alansolidum.com/posts/storage-case-base-template/) - I wanted to organize my drawer space and reuse my excess Harbor Freight/Stanley storage bins, so I created this SCAD model
 
-I wanted to organize my drawer space and reuse my excess Harbor Freight/Stanley storage bins, so I created this SCAD model
+* [Daily Fla.sh &lpar;inspired by 1 Second Everyday&rpar; scripted with Bash and FFmpeg](https://alansolidum.com/posts/daily-flash/) - Daily Fla.sh is a video montage command-line bash tool inspired by the 1 Second Everyday app. It&amp;rsquo;s powered with FFmpeg
 
-* [Daily Fla.sh &lpar;inspired by 1 Second Everyday&rpar;](https://alansolidum.com/posts/daily-flash/)
+* [Validating Media Uploads with the Google Photos Java API client](https://alansolidum.com/posts/validating-media-uploads/) - Verito GP &lpar;Google Photos&rpar; is a validation tool to ensure that all the files in a specific folder successfully upload to your GP account
 
-Daily Fla.sh is a video montage command-line bash tool inspired by the 1 Second Everyday app. It&amp;rsquo;s powered with FFmpeg
+* [Securing Changeblog Images using git hooks](https://alansolidum.com/posts/securing-changeblog-images/) - As I add more content to this site, I want to ensure the images are free of EXIF geolocation data. Why not automate this process with git hooks?
 
-* [Validating Media Uploads](https://alansolidum.com/posts/validating-media-uploads/)
-
-Verito GP &lpar;Google Photos&rpar; is a validation tool to ensure that all the files in a specific folder successfully upload to your GP account
-
-* [Securing Changeblog Images](https://alansolidum.com/posts/securing-changeblog-images/)
-
-As I add more content to this site, I want to ensure the images are free of EXIF geolocation data. Why not automate this process with git hooks?
-
-* [DIY Solder Fume Extractor](https://alansolidum.com/posts/solder-fume-extractor/)
-
-I&amp;rsquo;m increasingly working with electronic circuits. Here&amp;rsquo;s how I built a DIY solder fume extractor with just a fan, filter and filament
+* [DIY Solder Fume Extractor built with a fan, filter and filament](https://alansolidum.com/posts/solder-fume-extractor/) - I&amp;rsquo;m increasingly working with electronic circuits. Here&amp;rsquo;s how I built a DIY solder fume extractor with just a fan, filter and filament
 <!-- BLOG-POST-LIST:END -->
 
 <br>
