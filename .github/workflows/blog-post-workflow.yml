@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://alansolidum.com/category/projects/index.xml"
           commit_message: "style: Update github profile with latest alansolidum.com blog posts"
-          template: "$newline* [$title]($url)$newline$description$newline"
+          template: "$newline* [$title]($url)$newline$newline$description$newline"
