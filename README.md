@@ -28,7 +28,7 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 * [Securing Changeblog Images using git hooks](https://alansolidum.com/posts/securing-changeblog-images/) - As I add more content to this site, I want to ensure the images are free of EXIF geolocation data. Why not automate this process with git hooks?
 
-* [DIY Solder Fume Extractor built with a fan, filter and filament](https://alansolidum.com/posts/solder-fume-extractor/) - I&amp;rsquo;m increasingly working with electronic circuits. Here&amp;rsquo;s how I built a DIY solder fume extractor with just a fan, filter and filament
+* [DIY Solder Fume Extractor built with a fan, filter and filament](https://alansolidum.com/posts/solder-fume-extractor/) - I am increasingly working with electronic circuits. Here is how I built a DIY solder fume extractor with just a fan, filter and filament
 
 * [Making Ornaments with the 3D printer](https://alansolidum.com/posts/making-ornaments/) - Want to add to your holiday ornament collection? Use Thingiverse and your 3D printer to add more options on your tree.
 <!-- BLOG-POST-LIST:END -->
