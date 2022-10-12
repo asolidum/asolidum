@@ -35,6 +35,13 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 
 <br>
 
+#### 🎞️ ___Latest YouTube Videos___
+#
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<br>
+
 #### 📫 ___Connect with me___
 #
 <p align="left">
