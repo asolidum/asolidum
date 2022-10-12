@@ -38,6 +38,7 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 #### 🎞️ ___Latest YouTube Videos___
 #
 <!-- BEGIN YOUTUBE-CARDS -->
+[![2111: Nov 2021 Daily Flash](https://ytcards.demolab.com/?id=EAdbRxVpeAg&title=2111%3A+Nov+2021+Daily+Flash&timestamp=1665600245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "2111: Nov 2021 Daily Flash")](https://www.youtube.com/watch?v=EAdbRxVpeAg)
 [![2110: Oct 2021 Daily Flash](https://ytcards.demolab.com/?id=OFZZwrudQD0&title=2110%3A+Oct+2021+Daily+Flash&timestamp=1665521784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "2110: Oct 2021 Daily Flash")](https://www.youtube.com/watch?v=OFZZwrudQD0)
 <!-- END YOUTUBE-CARDS -->
 
