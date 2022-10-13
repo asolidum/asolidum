@@ -15,6 +15,6 @@ jobs:
           commit_message: "docs: Update README profile with latest youtube videos"
           author_name: youtube-video-bot
           author_email: youtube-video-bot@alansolidum.com
-          card_width: 430
+          card_width: 420
           background_color: "#515254"
           
