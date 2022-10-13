@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://alansolidum.com/category/projects/index.xml"
           max_post_count: 6
-          commit_message: "style: Update github profile with latest alansolidum.com blog posts"
+          commit_message: "docs: Update README with latest alansolidum.com blog posts"
           template: "$newline* [$title]($url) - $description$newline"
