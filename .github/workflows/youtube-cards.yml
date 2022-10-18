@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCpebSg6zKdJHdgz9uJR6MZw
+          channel_id: UCXr2bwg7KSJ177NksgqBUGw
           max_videos: 4
           commit_message: "docs: Update README profile with latest youtube videos"
           author_name: youtube-video-bot
