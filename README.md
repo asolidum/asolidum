@@ -20,7 +20,7 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 #### 📚 ___My latest blog posts___
 #
 <!-- BLOG-POST-LIST:START -->
-* [Storage Case Base Template A storage solution using SCAD](https://alansolidum.com/posts/storage-case-base-template/) - I wanted to organize my drawer space and reuse my excess Harbor Freight/Stanley storage bins, so I created this SCAD model
+* [Storage Case Base Template A SCAD storage solution featured on Hackaday](https://alansolidum.com/posts/storage-case-base-template/) - I wanted to organize my drawer space and reuse my excess Harbor Freight/Stanley storage bins, so I created this SCAD model
 
 * [Daily Fla.sh &lpar;inspired by 1 Second Everyday&rpar; scripted with Bash and FFmpeg](https://alansolidum.com/posts/daily-flash/) - Daily Fla.sh is a video montage command-line bash tool inspired by the 1 Second Everyday app. It&amp;rsquo;s powered with FFmpeg
 
