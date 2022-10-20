@@ -1,7 +1,7 @@
 # 🏄 Hello World
 <img src="https://lh3.googleusercontent.com/OL2Lp9O2a5pjOdMjdq3kv3_l3W7xLVZfTBYJ1JGKXKSRlZEDJxKJxZOUmzoc95ilRh4YvtzZ604o03jLkVGa_c4eVHNfzL9jMxmZBHCL0uKaN4CbzTXlLMbP1kRFPlAHd6Mm2htW0A=w2400" align="right" width="50%" />
 
->### _I'm Alan, a software/data engineer and lifelong learner. I enjoy gathering/analyzing data and optimizing systems._
+>### _I'm Alan, a software/data engineer and lifelong learner. I enjoy analyzing data and optimizing systems._
 <br>
 <br>
 
