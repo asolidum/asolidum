@@ -7,7 +7,7 @@
 
 Some of my notable accomplishments are:
 
-* Built a mobile SDK that integrated into 100+ apps
+* Built mobile SDK integrated into 100+ apps
 * Created an API with an install base that grew to over 50+ million iOS/Android devices
 * Programmed the computer imaging and robotic subsystems for a microscope platform
 * Developed data products that generated an average monthly recurring revenue of $53,000
