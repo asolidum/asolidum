@@ -40,10 +40,10 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 Daily flashes are video montages heavily inspired by the [1 Second Everyday](https://en.wikipedia.org/wiki/1_Second_Everyday) app. A command-line tool I wrote in bash and powered with FFmpeg created these videos. Read more about it in my [blog post](https://alansolidum.com/posts/daily-flash/).
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![2212: Dec 2022 Daily Flash](https://ytcards.demolab.com/?id=Fw1qMDAE6Uo&title=2212%3A+Dec+2022+Daily+Flash&lang=en&timestamp=1672679099&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2212: Dec 2022 Daily Flash")](https://www.youtube.com/watch?v=Fw1qMDAE6Uo)
 [![2211: Nov 2022 Daily Flash](https://ytcards.demolab.com/?id=N5UIWD1V3K4&title=2211%3A+Nov+2022+Daily+Flash&lang=en&timestamp=1671966283&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2211: Nov 2022 Daily Flash")](https://www.youtube.com/watch?v=N5UIWD1V3K4)
 [![2210: Oct 2022 Daily Flash](https://ytcards.demolab.com/?id=hKjT6pl2zpA&title=2210%3A+Oct+2022+Daily+Flash&lang=en&timestamp=1671873108&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2210: Oct 2022 Daily Flash")](https://www.youtube.com/watch?v=hKjT6pl2zpA)
 [![2209: Sep 2022 Daily Flash](https://ytcards.demolab.com/?id=BJNChW7_F2E&title=2209%3A+Sep+2022+Daily+Flash&lang=en&timestamp=1671812453&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2209: Sep 2022 Daily Flash")](https://www.youtube.com/watch?v=BJNChW7_F2E)
-[![2208: Aug 2022 Daily Flash](https://ytcards.demolab.com/?id=rFaiXLcyhy0&title=2208%3A+Aug+2022+Daily+Flash&lang=en&timestamp=1671703843&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2208: Aug 2022 Daily Flash")](https://www.youtube.com/watch?v=rFaiXLcyhy0)
 <!-- END YOUTUBE-CARDS -->
 
 <br>
