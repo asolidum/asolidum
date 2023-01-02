@@ -41,9 +41,9 @@ Daily flashes are video montages heavily inspired by the [1 Second Everyday](htt
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![2212: Dec 2022 Daily Flash](https://ytcards.demolab.com/?id=Y2-Mn6OPG04&title=2212%3A+Dec+2022+Daily+Flash&lang=en&timestamp=1672679320&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2212: Dec 2022 Daily Flash")](https://www.youtube.com/watch?v=Y2-Mn6OPG04)
+[![2212: Dec 2022 Daily Flash](https://ytcards.demolab.com/?id=Fw1qMDAE6Uo&title=2212%3A+Dec+2022+Daily+Flash&lang=en&timestamp=1672679099&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2212: Dec 2022 Daily Flash")](https://www.youtube.com/watch?v=Fw1qMDAE6Uo)
 [![2211: Nov 2022 Daily Flash](https://ytcards.demolab.com/?id=N5UIWD1V3K4&title=2211%3A+Nov+2022+Daily+Flash&lang=en&timestamp=1671966283&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2211: Nov 2022 Daily Flash")](https://www.youtube.com/watch?v=N5UIWD1V3K4)
 [![2210: Oct 2022 Daily Flash](https://ytcards.demolab.com/?id=hKjT6pl2zpA&title=2210%3A+Oct+2022+Daily+Flash&lang=en&timestamp=1671873108&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2210: Oct 2022 Daily Flash")](https://www.youtube.com/watch?v=hKjT6pl2zpA)
-[![2209: Sep 2022 Daily Flash](https://ytcards.demolab.com/?id=BJNChW7_F2E&title=2209%3A+Sep+2022+Daily+Flash&lang=en&timestamp=1671812453&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2209: Sep 2022 Daily Flash")](https://www.youtube.com/watch?v=BJNChW7_F2E)
 <!-- END YOUTUBE-CARDS -->
 
 <br>
