@@ -40,10 +40,10 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 Daily flashes are video montages heavily inspired by the [1 Second Everyday](https://en.wikipedia.org/wiki/1_Second_Everyday) app. A command-line tool I wrote in bash and powered with FFmpeg created these videos. Read more about it in my [blog post](https://alansolidum.com/posts/daily-flash/).
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![2200: Year 2022 Daily Flash](https://ytcards.demolab.com/?id=Xd5CjVMMNO8&title=2200%3A+Year+2022+Daily+Flash&lang=en&timestamp=1672910714&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2200: Year 2022 Daily Flash")](https://www.youtube.com/watch?v=Xd5CjVMMNO8)
-[![2212: Dec 2022 Daily Flash](https://ytcards.demolab.com/?id=Y2-Mn6OPG04&title=2212%3A+Dec+2022+Daily+Flash&lang=en&timestamp=1672679320&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2212: Dec 2022 Daily Flash")](https://www.youtube.com/watch?v=Y2-Mn6OPG04)
-[![2212: Dec 2022 Daily Flash](https://ytcards.demolab.com/?id=Fw1qMDAE6Uo&title=2212%3A+Dec+2022+Daily+Flash&lang=en&timestamp=1672679099&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2212: Dec 2022 Daily Flash")](https://www.youtube.com/watch?v=Fw1qMDAE6Uo)
-[![2211: Nov 2022 Daily Flash](https://ytcards.demolab.com/?id=N5UIWD1V3K4&title=2211%3A+Nov+2022+Daily+Flash&lang=en&timestamp=1671966283&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2211: Nov 2022 Daily Flash")](https://www.youtube.com/watch?v=N5UIWD1V3K4)
+[![2200: Year 2022 Daily Flash](https://ytcards.demolab.com/?id=zeVKQ9Gnd9o&title=2200%3A+Year+2022+Daily+Flash&lang=en&timestamp=1672879131&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2200: Year 2022 Daily Flash")](https://www.youtube.com/watch?v=zeVKQ9Gnd9o)
+[![2212: Dec 2022 Daily Flash](https://ytcards.demolab.com/?id=UIOy0vkxd2Q&title=2212%3A+Dec+2022+Daily+Flash&lang=en&timestamp=1672680050&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2212: Dec 2022 Daily Flash")](https://www.youtube.com/watch?v=UIOy0vkxd2Q)
+[![2211: Nov 2022 Daily Flash](https://ytcards.demolab.com/?id=MFAh7wPkwz0&title=2211%3A+Nov+2022+Daily+Flash&lang=en&timestamp=1671966027&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2211: Nov 2022 Daily Flash")](https://www.youtube.com/watch?v=MFAh7wPkwz0)
+[![2210: Oct 2022 Daily Flash](https://ytcards.demolab.com/?id=0TN3kCpZMBI&title=2210%3A+Oct+2022+Daily+Flash&lang=en&timestamp=1671872832&background_color=%23515254&title_color=%23ffffff&stats_color=%23dedede&width=315 "2210: Oct 2022 Daily Flash")](https://www.youtube.com/watch?v=0TN3kCpZMBI)
 <!-- END YOUTUBE-CARDS -->
 
 <br>
