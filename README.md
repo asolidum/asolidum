@@ -20,6 +20,8 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 #### 📚 ___My latest blog posts___
 #
 <!-- BLOG-POST-LIST:START -->
+* [Gaining Insight into 2022 Daily Flash videos using a Deepnote.com Python Notebook](https://alansolidum.com/posts/daily-flash-2022-insight/) - My data analysis using a Deepnote.com Python Notebooks to gain insight into my 2022 Daily Fla.sh video
+
 * [Storage Case Base Template A SCAD storage solution featured on Hackaday](https://alansolidum.com/posts/storage-case-base-template/) - I wanted to organize my drawer space and reuse my excess Harbor Freight/Stanley storage bins, so I created this SCAD model
 
 * [Daily Fla.sh &lpar;inspired by 1 Second Everyday&rpar; scripted with Bash and FFmpeg](https://alansolidum.com/posts/daily-flash/) - Daily Fla.sh is a video montage command-line bash tool inspired by the 1 Second Everyday app. It&amp;rsquo;s powered with FFmpeg
@@ -29,8 +31,6 @@ My other interests include surfing, photography and 3D printing.  Recently, I've
 * [Securing Changeblog Images using git hooks](https://alansolidum.com/posts/securing-changeblog-images/) - As I add more content to this site, I want to ensure the images are free of EXIF geolocation data. Why not automate this process with git hooks?
 
 * [DIY Solder Fume Extractor built with a fan, filter and filament](https://alansolidum.com/posts/solder-fume-extractor/) - I am increasingly working with electronic circuits. Here is how I built a DIY solder fume extractor with just a fan, filter and filament
-
-* [Making Ornaments with the 3D printer](https://alansolidum.com/posts/making-ornaments/) - Want to add to your holiday ornament collection? Use Thingiverse and your 3D printer to add more options on your tree.
 <!-- BLOG-POST-LIST:END -->
 
 <br>
